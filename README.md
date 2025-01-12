@@ -85,3 +85,12 @@ echo Old GUID: !currentGUID!
 echo New GUID: !newGUID!
 echo Registry updated successfully.
 pause
+
+```
+## Usage
+Download the .bat file and save it locally.
+Run the script as an administrator to modify the registry.
+
+## Disclaimer
+Use at your own risk. Modifying the registry can potentially harm your system. Ensure you have a backup of your registry and important data before running this script.
+This script is for educational purposes only. Using it to bypass software restrictions may violate the terms of service of the software. The author is not responsible for any misuse of this script.
